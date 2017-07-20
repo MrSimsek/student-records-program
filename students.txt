@@ -1,2 +1,0 @@
-Std#  Last Name       First Name      Grade
-2     Simsek          Eda             56.00
